@@ -1,0 +1,7 @@
+README.md
+setup.py
+release_comparison.egg-info/PKG-INFO
+release_comparison.egg-info/SOURCES.txt
+release_comparison.egg-info/dependency_links.txt
+release_comparison.egg-info/requires.txt
+release_comparison.egg-info/top_level.txt
